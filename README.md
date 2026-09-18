@@ -274,22 +274,19 @@ Based on the analysis:
 
 This stage of the project focused on **SQL-based exploration and data cleaning**, so no dashboard or chart was created.
 
-Possible screenshots to include:
+## Project Screenshots
 
-[Add database overview screenshot here]
+### Database Overview
+![Database Overview](images/Database-Overview.png)
 
-[Add water-source analysis screenshot here]
+### Water Source Analysis
+![Water Source Analysis](images/Water-Source-Type-Analysis.png)
 
-[Add pollution-data cleaning screenshot here]
+### Queue-Time Analysis
+![Queue Time Analysis](images/queue-time-analysis.png)
 
-Example Markdown:
-
-```markdown
-![Database Overview](images/database-overview.png)
-
-![Water Source Analysis](images/water-source-analysis.png)
-
-![Pollution Data Cleaning](images/pollution-data-cleaning.png)
+### Pollution Data Validation
+![Pollution Data Validation](images/Pollution-Anakysis-Validation.png)
 ```
 
 ---
