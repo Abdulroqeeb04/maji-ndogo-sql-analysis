@@ -287,9 +287,8 @@ This stage of the project focused on **SQL-based exploration and data cleaning**
 
 ### Pollution Data Validation
 ![Pollution Data Validation](images/Pollution-Analysis-Validation.png)
-```
 
-```
+
 ### Main Files
 
 **`MD Water Services Project.sql`**  
