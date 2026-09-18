@@ -286,22 +286,9 @@ This stage of the project focused on **SQL-based exploration and data cleaning**
 ![Queue Time Analysis](images/queue-time-analysis.png)
 
 ### Pollution Data Validation
-![Pollution Data Validation](images/Pollution-Anakysis-Validation.png)
+![Pollution Data Validation](images/Pollution-Analysis-Validation.png)
 ```
 
----
-
-## Project Structure
-
-```text
-Maji-Ndogo-SQL-Analysis/
-│
-├── README.md
-├── MD Water Services Project.sql
-├── md_water_services.sql
-└── images/
-    └── [Add project screenshots]
-```
 
 ### Main Files
 
