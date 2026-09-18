@@ -356,10 +356,5 @@ The project strengthened my understanding of:
 **Yekini Abdulroqeeb Ademola**
 
 - GitHub: [Abdulroqeeb04](https://github.com/Abdulroqeeb04)
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/abdulroqeeb-yekini22
 
----
-
-## Project Link
-
-[Add GitHub repository link]
